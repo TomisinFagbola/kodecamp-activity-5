@@ -1,0 +1,128 @@
+body{
+    background-color: black;
+    color: #ffffff;
+}
+.profile-image {
+    width: "0px";
+    height: "0px";
+    border-radius: 50%;
+}
+.main-content {
+   margin: auto;
+   width: 70%;
+}
+.social-icon{
+    margin: 30px 0;
+}
+.social-icon .twitter {
+    padding: 0 20px;
+}
+.about{
+    display: flex;
+    gap: 7%;
+    justify-content: space-between;
+    width: 100%;
+}
+.about-title{
+
+}
+.u-text {
+    word-wrap: break-word;
+    position: relative;
+}
+.u-align-center {
+    text-align: center;
+}
+.u-section-4 .u-text-3 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 700;
+    margin: 34px 229px 60px;
+}
+.u-font-ubuntu.u-custom-font {
+    font-family: Ubuntu, sans-serif !important;
+}
+.u-body h1, .u-body h2, .u-body h3, .u-body h4, .u-body h5, .u-body h6 {
+    padding: 0;
+}
+.u-text-palette-2-base, a.u-button-style.u-text-palette-2-base, a.u-button-style.u-text-palette-2-base[class*="u-border-"] {
+    color: #f7d7c8 !important;
+}
+.u-text {
+    word-wrap: break-word;
+    position: relative;
+}
+.u-align-center {
+    text-align: center;
+}
+section > *, header > *, footer > *, .u-sheet > * {
+    position: relative;
+}
+h5 {
+    font-weight: 400;
+    font-size: 1.25rem;
+    line-height: 1.2;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Roboto,sans-serif;
+}
+h5 {
+    font-size: 1.125rem;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    line-height: 1.2;
+    font-weight: 500;
+    color: inherit;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+user agent stylesheet
+h5 {
+    display: block;
+    font-size: 0.83em;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.u-sheet:not(.u-image):not(.u-video) {
+    pointer-events: none;
+}
+.u-black, .u-body.u-black, .u-container-style.u-black:before, .u-table-alt-black tr:nth-child(even) {
+    color: #ffffff;
+    background-color: #000000;
+}
+.u-body {
+    color: #111111;
+    background-color: #ffffff;
+}
+.u-body {
+    font-family: 'Open Sans',sans-serif;
+}
+.u-body {
+    font-size: 1rem;
+    line-height: 1.6;
+}
+style attribute {
+    font-size: 16px;
+}
+html {
+    font-size: 16px;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
