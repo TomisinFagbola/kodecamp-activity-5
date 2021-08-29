@@ -10,6 +10,26 @@ body{
 .main-content {
    margin: auto;
    width: 70%;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+  
+}
+.main-content .profile{
+    margin: 20px;
+}
+.main-content .grey{
+    color: #999999;
+    word-wrap: break-word;
+    position: relative;
+    font-weight: 300;
+    line-height: 1.8;
+    width: 739px;
+    margin: 20px auto 0;
+}
+.main-content .name{
+    margin-top: 10px;
+    color: #f7d7c8;
 }
 .social-icon{
     margin: 30px 0;
@@ -25,6 +45,41 @@ body{
 }
 .about-title{
 
+}
+.chat-now{
+    display: flex;
+    align-items: center;
+    gap: 2%;
+}
+.text-centre{
+    text-align:center;
+}
+.margin{
+    margin: 5% 0;
+}
+.One{
+    font-size: 50px;
+    font-weight: 900;
+
+}
+.design-par{
+    font-size: 50px;
+    font-weight: 700;
+    color: #f7d7c8;
+}
+.about-title h1{
+    color: #f7d7c8;
+}
+.about .about-title .special-color{
+    font-family: Merriweather, serif;
+    color:#f7d7c8;
+    word-wrap: break-word;
+    position: relative;
+    font-family: Merriweather, serif 
+}
+.about .about-title .word-wrap{
+    word-wrap: break-word;
+    position: relative;
 }
 .u-text {
     word-wrap: break-word;
@@ -67,6 +122,7 @@ h5 {
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: Roboto,sans-serif;
+    color: #f7d7c8
 }
 h5 {
     font-size: 1.125rem;
